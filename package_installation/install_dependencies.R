@@ -8,3 +8,5 @@ install.packages("protr")
 install.packages("maptools")
 install.packages("directlabels")
 install.packages("doMC")
+
+library()
